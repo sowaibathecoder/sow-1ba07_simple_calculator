@@ -1,7 +1,7 @@
 {
   "name": "sowa1ba07-simple-calculator",
   "version": "1.0.0",
-  "description": "A simple calculator with Typescript, Node.js and Inquirer.",
+  "description": "This is a cli based simple calculator with Typescript, Node.js and package Inquirer and Chalk.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
